@@ -1,0 +1,17 @@
+table,
+      th,
+      td {
+        border: 2px solid blue;
+        padding: 15px 25px 35px 45px;
+      }
+      img{
+        justify-content: center;
+        width: 250px;
+        height: auto; 
+      }
+      th,td{
+        text-transform: uppercase;
+      }
+      tr:nth-child(even):hover{
+        background-color: brown;
+      }
